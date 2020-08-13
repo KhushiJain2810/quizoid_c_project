@@ -1,0 +1,120 @@
+1. Which definition best describes an object?
+1. Instance of a class
+2. Instance of itself
+3. Child of a class
+4. Overview of a class
+1
+2. Member function of a class can ____________
+1. Access all the members of the class
+2. Access only Public members of the class
+3. Access only the private members of the class
+4. Access subclass members
+1
+3. Which type of inheritance leads to diamond problem?
+1. Single level
+2. Multi-level
+3. Multiple
+4. Hierarchical
+3
+4. Static member functions _____________
+1. Contains this pointer for data members
+2. Contains this pointer if used for member functions
+3. Doesnt contain this pointer
+4. Doesnt contain this pointer if member functions are referred
+3
+5. Which type of function among the following shows polymorphism?
+1. Inline function
+2. Virtual function
+3. Undefined functions
+4. Class member functions
+2
+6. Size of a class is _____________
+1. Sum of the size of all the variables declared inside the class
+2. Sum of the size of all the variables along with inherited variables in the class
+3. Size of the largest size of variable
+4. Classes doesnt have any size
+4
+7. Which access type data gets derived as private member in derived class?
+1. Private
+2. Public
+3. Protected
+4. Protected and Private
+1
+8. Which among the following can show polymorphism?
+1. Overloading ||
+2. Overloading +=
+3. Overloading <<
+4. Overloading &&
+3
+9. Which among the following is called first, automatically, whenever an object is created?
+1. Class
+2. Constructor
+3. New
+4. Trigger
+2
+10. Which among the following is wrong?
+1. class student{ }; student s;
+2. abstract class student{ }; student s;
+3. abstract class student{ }s[50000000];
+4. abstract class student{ }; class toppers: public student{ }; topper t;
+2
+11. Which access specifier should be used in a class where the instances cant be created?
+1. Private default constructor
+2. All private constructors
+3. Only default constructor to be public
+4. Only default constructor to be protected
+2
+12. How to access data members of a class?
+1. Dot operator
+2. Arrow operator
+3. Dot or arrow as required
+4. Dot, arrow or direct call
+3
+13. What is the keyword used to make data members have same value?
+1. static
+2. const
+3. double
+4. abstract
+2
+14. If 6 classes uses single level inheritance with pair classes (3 pairs), which inheritance will this be called?
+1. Single
+2. Multiple
+3. Hierarchical
+4. Multilevel
+1
+15. Instance of which type of class can not be created?
+1. Anonymous class
+2. Nested class
+3. Parent class
+4. Abstract class
+4
+16. Which specifier allows a programmer to make the private members which can be inherited?
+1. Private
+2. Default
+3. Protected
+4. Protected and default
+3
+17. Which among the following is correct?
+1. class student{ public: int student(){} };
+2. class student{ public: void student (){} };
+3. class student{ public: student{}{} };
+4. class student{ public: student(){} };
+4
+18. Members which are not intended to be inherited are declared as ________________
+1. Public members
+2. Protected members
+3. Private members
+4. Private or Protected members
+3
+19. How many base classes can a derived class have which is implementing multiple inheritance?
+1. Only 2
+2. At least 2
+3. At most 2
+4. As many as required
+4
+20. Which among the following is true for copy constructor?
+1. The argument object is passed by reference
+2. It can be defined with zero arguments
+3. Used when an object is passed by value to a function
+4. Used when a function returns an object
+2

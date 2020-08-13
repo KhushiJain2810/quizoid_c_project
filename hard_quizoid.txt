@@ -1,0 +1,120 @@
+1. The memory for automatic variables ___________________
+1. Have to be allocated and deallocated explicitly
+2. Are allocated and deallocated automatically
+3. Is never actually allocated
+4. Are never safe
+2
+2. Which among the following is false for a constructor?
+1. Constructors does not have a return value
+2. Constructors are always user defined
+3. Constructors are overloaded with different signature
+4. Constructors may or may not have any arguments being accepted
+2
+3. Use of pointers or reference to an abstract class gives rise to
+1. Static Polymorphism
+2. Runtime polymorphism
+3. Compile time Polymorphism
+4. Polymorphism within methods 
+2
+4. Which among the following violates the principle of encapsulation almost always?
+1. Local variables
+2. Global variables
+3. Public variables
+4. Array variables
+2
+5. Which among the following is not applicable for the static member functions?
+1. Variable pointers
+2. void pointers
+3. this pointer
+4. Function pointers
+3
+6. What should be used for safe downcast?
+1. Static cast
+2. Dynamic cast
+3. Manual cast
+4. Implicit cast
+2
+7. The compareTo() function in String class is used to ________________
+1. Compare strings value to string object
+2. Compare string value to string value
+3. Compare string object to another string object
+4. Compare string object to another string value
+3
+8. Which are the two blocks that are used to check error and handle the error?
+1. Try and catch
+2. Trying and catching
+3. Do and while
+4. TryDo and Check
+1
+9. If catching of base class exception is done before derived class in C++ ________________
+1. It gives compile time error
+2. It doesn’t run the program
+3. It may give warning but not error
+4. It always gives compile time error
+3
+10. Which attribute can be used to get the size of an array?
+1. Size.Array
+2. Array.Size
+3. Array_name.length
+4. length.Array_name
+3
+11. If classes produce some exceptions, then ______________________
+1. Their respective catch block must be defined
+2. Their respective catch blocks are not mandatory
+3. Their catch blocks should be defined inside main function
+4. Their catch blocks must be defined at the end of program
+1
+12. How to access the overridden method of base class from the derived class?
+1. Using arrow operator
+2. Using dot operator
+3. Using scope resolution operator
+4. Can not be accessed once overridden
+3
+13. Which symbol is used to separate type of exception handler classes in a single catch block?
+1. ?
+2. ,
+3. –
+4. |
+4
+14. How can Encapsulation be achieved?
+1. Using Access Specifiers
+2. Using only private members
+3. Using inheritance
+4. Using Abstraction
+1
+15. Which among the following not an inbuilt class in C++?
+1. System
+2. Color
+3. String
+4. Functions
+4
+16. Which feature of OOP is exhibited by the function overriding?
+1. Inheritance
+2. Abstraction
+3. Polymorphism
+4. Encapsulation
+3
+17. Which among doesn’t illustrates polymorphism?
+1. Function overloading
+2. Function overriding
+3. Operator overloading
+4. Virtual function
+2
+18. When an object is returned by a function, a _______________ is automatically created to hold the return value.
+1. Temporary object
+2. Virtual object
+3. New object
+4. Data member
+1
+19. How to make more than one object refer to the same object?
+1. Initialize it to null
+2. Initialize the object with another at declaration
+3. Use constructor to create new object
+4. Assign the address directly
+2
+20. When are the pointer types known for upcasting the objects?
+1. Compile time
+2. Runtime
+3. Source code build time
+4. Doesn’t apply to pointer types
+1
